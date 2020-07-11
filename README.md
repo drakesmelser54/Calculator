@@ -1,2 +1,2 @@
 # Calculator
-This is my first attempt at utilizing JavaScript, HTML, and CSS to create a functional calculator.
+This is my first attempt at utilizing HTML, and CSS to create a functional calculator.
